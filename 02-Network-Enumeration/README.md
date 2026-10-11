@@ -82,3 +82,14 @@ The scan identified:
 - SMB service running on port 445.
 
 ![HTTP and SMB Enumeration Results](IMG_6515.jpeg)
+
+### NetBIOS Enumeration
+
+Performed NetBIOS enumeration using NBTScan and Nmap to identify host information and network services.
+
+The scan identified:
+- NetBIOS hostname: BASIC2
+- Workgroup: WORKGROUP
+- SMB service on port 445
+
+![NetBIOS Enumeration Results](IMG_6519.jpeg)
