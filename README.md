@@ -22,7 +22,7 @@ These labs focus on network reconnaissance, service enumeration, vulnerability s
 
 - Kali Linux
 
-- Nmap & Zenmap
+- Nmap 
 
 - Nmap Scripting Engine (NSE)
 
@@ -36,13 +36,13 @@ These labs focus on network reconnaissance, service enumeration, vulnerability s
 
 ## Labs
 
-### 01 — Network Scanning
+### [01 – Network Scanning](01-Network-Scanning)
 
-**Tools:** Nmap, Zenmap
+**Tools:** Nmap
 
 Explored network discovery, port scanning, and service identification in a controlled lab environment.
 
-### 02 — Network Enumeration
+### [02 – Network Enumeration](02-Network-Enumeration)
 
 **Tools:** Nmap NSE, NBTScan
 
