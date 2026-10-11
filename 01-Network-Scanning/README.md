@@ -47,3 +47,13 @@ Performed TCP SYN scans against an authorized virtual machine to identify open a
 The scans identified open services including FTP, SSH, Telnet, and HTTP.
 
 ![Nmap SYN Scan Results](evidence/IMG_6514.jpeg)
+
+### Network Discovery and Host Identification
+
+Performed a network discovery scan using Nmap to identify active hosts within the target subnet.
+
+The scan identified 3 active hosts out of 256 IP addresses.
+
+Created an IP address list (iplist.txt) for further network enumeration.
+
+![Network Discovery Results](evidence/IMG_6518.jpeg)
