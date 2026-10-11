@@ -34,10 +34,16 @@ an authorized virtual laboratory environment.
 - Network Security Assessment
 - Technical Documentation
 
-## Evidence
-Screenshots and selected scan results will be added
-to demonstrate the completed exercises.
-
 ## Security & Ethics
 All scanning activities were performed in authorized
 educational environments for learning purposes.
+
+## Lab Evidence
+
+### Nmap TCP SYN Scanning
+
+Performed TCP SYN scans against an authorized virtual machine to identify open and closed ports.
+
+The scans identified open services including FTP, SSH, Telnet, and HTTP.
+
+![Nmap SYN Scan Results](evidence/IMG_6514.jpeg)
