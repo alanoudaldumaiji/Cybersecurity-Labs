@@ -70,5 +70,15 @@ Scripts:
 ## Security & Ethics
 All enumeration activities were performed in an authorized educational laboratory environment for cybersecurity learning purposes.
 
-## Evidence
-Screenshots of the executed commands and their results are available in the evidence folder.
+## Lab Evidence
+
+### HTTP and SMB Enumeration
+
+Performed network enumeration using Nmap to identify open ports, HTTP methods, and SMB services in an authorized virtual lab environment.
+
+The scan identified:
+- Open ports: 22, 80, 139, 445, 8009, and 8080.
+- HTTP methods: GET, HEAD, POST, and OPTIONS.
+- SMB service running on port 445.
+
+![HTTP and SMB Enumeration Results](evidence/IMG_6515.jpeg)
