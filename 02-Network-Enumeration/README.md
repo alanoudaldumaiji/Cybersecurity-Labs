@@ -81,4 +81,4 @@ The scan identified:
 - HTTP methods: GET, HEAD, POST, and OPTIONS.
 - SMB service running on port 445.
 
-![HTTP and SMB Enumeration Results](evidence/IMG_6515.jpeg)
+![HTTP and SMB Enumeration Results](IMG_6515.jpeg)
