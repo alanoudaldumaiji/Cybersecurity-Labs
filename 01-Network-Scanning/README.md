@@ -8,7 +8,6 @@ an authorized virtual laboratory environment.
 ## Tools & Technologies
 - Kali Linux
 - Nmap
-- Zenmap
 - Virtual Machines
 
 ## Objectives
@@ -23,8 +22,7 @@ an authorized virtual laboratory environment.
 2. Performed host discovery using Nmap.
 3. Conducted TCP and UDP port scanning.
 4. Examined open ports and running services.
-5. Used Zenmap to visualize and analyze scan results.
-6. Documented findings for security analysis.
+5. Documented findings for security analysis.
 
 ## Skills Demonstrated
 - Network Reconnaissance
