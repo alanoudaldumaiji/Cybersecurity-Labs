@@ -48,7 +48,7 @@ Explored network discovery, port scanning, and service identification in a contr
 
 Practiced network enumeration techniques involving HTTP, SMB, NetBIOS, and FTP services.
 
-### 03 — Vulnerability Scanning
+### [03 – Vulnerability Scanning](03-Vulnerability-Scanning-and-Assessment)
 
 **Tools:** Nmap, Nikto, OpenVAS
 
